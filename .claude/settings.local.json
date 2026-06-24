@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export ECC_GATEGUARD=off)",
+      "Bash(echo \"OK\")"
+    ]
+  }
+}
